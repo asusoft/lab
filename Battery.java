@@ -7,7 +7,7 @@ import brokenrobotgame.model.navigation.CellPosition;
  */
 public class Battery extends AbstractBattery
 {
-    public Battery(GameField field, int capacity, int amount)
+    public Battery(GamField field, int capacity, int amount)
     {
         super(field,capacity,amout);
     }
