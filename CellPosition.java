@@ -5,7 +5,7 @@ import java.util.HashMap;
 /*
  * Позиция ячейки 
  */
-public class CellPosition
+public class CellPositon
 {
     // -- Диапазоны возможных значений по горизонтали и вертикали для всех позиций --
 
